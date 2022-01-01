@@ -1,3 +1,6 @@
+## Screenshot
+<img width="459" alt="Tours-project screenshot" src="https://user-images.githubusercontent.com/36413759/147848238-8d1fcf2e-5339-46e0-b0af-39986bad37d2.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
